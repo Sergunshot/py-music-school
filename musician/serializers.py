@@ -30,4 +30,3 @@ class MusicianDetailSerializer(MusicianSerializer):
             "date_of_applying",
             "is_adult"
         )
-
